@@ -1,3 +1,4 @@
-Saludosssss
-Nombre: Jose master
-Fecha: mañana
+=======
+Nombre: Jose experimental
+Fecha: hoy
+>>>>>>> Experimental
